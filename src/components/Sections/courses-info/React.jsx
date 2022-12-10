@@ -11,7 +11,6 @@ function RJS() {
   return (
     <>
       <div className="topbar">
-        {" "}
         <Breadcrumb className="breadCrumb">
           <Breadcrumb.Item active>ReactJS</Breadcrumb.Item>
           <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
