@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c819b21d.css",
+    "main.js": "/static/js/main.0c517701.js",
+    "static/media/banner-image.png": "/static/media/banner-image.ce18cae48948534699a5.png",
+    "static/media/1.png": "/static/media/1.4d77dd20486919da80a0.png",
+    "static/media/2.png": "/static/media/2.e634834448dd3a9495c3.png",
+    "static/media/4.png": "/static/media/4.4c1c69930b491f78b225.png",
+    "static/media/3.png": "/static/media/3.9788ceccfb34eed55ab1.png",
+    "static/media/Seo.jpg": "/static/media/Seo.c1800fc5e1639fad89b9.jpg",
+    "static/media/freelancing.jpg": "/static/media/freelancing.49516a20b82ec5b9f674.jpg",
+    "static/media/front-end.jpg": "/static/media/front-end.d128dad2680dddcd4f45.jpg",
+    "static/media/appdev.jpg": "/static/media/appdev.d9c14c6677b5286a28aa.jpg",
+    "static/media/heyteclogo.png": "/static/media/heyteclogo.fa979d3b232f99f1d9aa.png",
+    "static/media/wordPress.jpg": "/static/media/wordPress.63301da64992bf3455aa.jpg",
+    "static/media/React.jpg": "/static/media/React.ffc5557c05264fc3fb51.jpg",
+    "index.html": "/index.html",
+    "main.c819b21d.css.map": "/static/css/main.c819b21d.css.map",
+    "main.0c517701.js.map": "/static/js/main.0c517701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c819b21d.css",
+    "static/js/main.0c517701.js"
+  ]
+}
